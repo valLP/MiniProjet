@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MiniProjet</string>
+    <string name="title_activity_init">InitActivity</string>
+</resources>
